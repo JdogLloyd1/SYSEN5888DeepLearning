@@ -22,7 +22,7 @@ This repository offers two comprehensive tutorials on Generative Adversarial Net
   - PyTorch 1.x or later
   - NumPy, Matplotlib
 
-## 3. AI for Materials Topics Covered
+## 3. AI for Materials
 - **Generative Modeling in Materials Science**: Techniques for simulating and analyzing material microstructures.
 - **Material Electron Microscopy Data**: Utilizing real-world microscopy images to train and validate models.
 - **Integrating Deep Learning in Materials Research**: Approaches for leveraging GANs to accelerate discovery and analysis in materials science.

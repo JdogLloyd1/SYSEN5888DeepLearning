@@ -11,6 +11,7 @@ This repository contains comprehensive tutorials on Deep Reinforcement Learning 
   - Q-Learning and Deep Q-Networks (DQN).
   - Training, evaluation, and performance analysis.
 - **Prerequisites**: Familiarity with TensorFlow, Python, and basic reinforcement learning concepts.
+- **AI for Materials Focus**: In addition to classical control tasks, this tutorial provides an introduction on how DRL techniques can be adapted to address materials design challenges, preparing you to explore materials science applications.
 
 ### 2. **PyTorch Implementation**
 - **Notebook**: `Tutorial#12 (torch) Deep Reinforcement Learning.ipynb`
@@ -19,22 +20,17 @@ This repository contains comprehensive tutorials on Deep Reinforcement Learning 
   - Explore various DRL algorithms including Actor-Critic methods and DDPG.
   - Fine-tune the models through hands-on debugging and performance tuning.
 - **Prerequisites**: Basic knowledge of PyTorch, Python, and reinforcement learning fundamentals.
+- **AI for Materials Focus**: This tutorial is geared towards extending DRL applications to materials science, featuring methods that can be adapted for designing and optimizing material properties.
 
 ### 3. **AI for Materials: Reinforcement Learning Applications in Material Science**
 - **Overview**: 
   - This section showcases a custom OpenAI Gym environment for materials design, where the goal is to optimize material compositions by adjusting component ratios and synthesis parameters.
   - The tutorial demonstrates how to integrate DRL (using an Actor-Critic method) into material science applications.
 - **Key Highlights**:
-  - **Custom Environment**: Learn how to create a custom Gym environment that simulates materials design, with continuous state and action spaces.
-  - **Continuous Action Spaces**: Understand how to scale and adjust continuous outputs from DRL agents—important for real-world design problems.
-  - **Advanced Techniques**: Gain insights into designing realistic reward functions and utilizing state-of-the-art exploration techniques.
-  - **Extensions**: Ideas to further combine DRL with high-throughput experiments and simulation outputs, opening new avenues for AI-driven materials discovery.
-
-## Learning Objectives
-
-- **Fundamentals**: Grasp the essential concepts behind Deep Reinforcement Learning.
-- **Practical Implementations**: Build and train DRL models in both TensorFlow and PyTorch across various environments.
-- **Advanced Applications**: Explore how DRL methods can be leveraged in innovative fields like materials science, enhancing decision-making in complex design tasks.
+  - **Custom Environment**: Learn how to create a custom Gym environment that simulates materials design, featuring continuous state and action spaces.
+  - **Continuous Action Spaces**: Understand how to scale and adjust continuous outputs from DRL agents—an essential capability for tackling real-world design problems in materials science.
+  - **Advanced Techniques**: Gain insights into designing realistic reward functions and utilizing state-of-the-art exploration techniques that are directly applicable to AI-driven material discovery.
+  - **Extensions**: Explore ideas for combining DRL with high-throughput experiments and simulation outputs, opening new avenues for innovation in materials design.
 
 ## Resources
 
